@@ -16,4 +16,4 @@ class Game:
         self.players[player_id].update(data)
 
     def get_all_data(self):
-        return [p.get_data() for p in self.players]
+        return [p.get_data() for p in self.players] 
