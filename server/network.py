@@ -1,3 +1,4 @@
+# Socket bağlantılarını dinler ve yönetir
 import socket
 import json
 

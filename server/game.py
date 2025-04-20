@@ -1,3 +1,4 @@
+# Sunucuda oyunun genel mantığını kontrol eder
 from server.player import Player
 
 class Game:

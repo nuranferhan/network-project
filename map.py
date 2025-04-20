@@ -1,0 +1,1 @@
+# Ortak harita kodları (eğer paylaşılacak şeyler varsa)

@@ -1,3 +1,4 @@
+# Oyuncu bilgilerini tutar (pozisyon, hız, rol)
 import pygame
 
 class Player:

@@ -1,3 +1,4 @@
+# Oyuncunun oyun istemcisini başlatır
 import pygame
 from client.network import Network
 from client.game import Game
@@ -8,7 +9,7 @@ WIN_HEIGHT = 400
 def run_client():
     pygame.init()
     win = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
-    pygame.display.set_caption("Hırsız-Polis Online")
+    pygame.display.set_caption("Hırsız-Polis Oyunu")
 
     network = Network()
     player_id = network.player_id  # Burada sunucudan ID alındı zaten

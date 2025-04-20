@@ -1,0 +1,1 @@
+# Ortak player kodları (rol, renk, başlangıç pozisyonu vb.)

@@ -1,1 +1,1 @@
-#
+# Ortak kullanılan oyun sabitleri / utility fonksiyonlar

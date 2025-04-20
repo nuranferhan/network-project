@@ -1,3 +1,4 @@
+# Oyunun başlatılmasını sağlar (istemci ve sunucu ayırımı)
 import sys
 
 if __name__ == "__main__":

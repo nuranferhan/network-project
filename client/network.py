@@ -1,3 +1,4 @@
+# Sunucuyla bağlantıyı sağlar
 import socket
 import pickle
 

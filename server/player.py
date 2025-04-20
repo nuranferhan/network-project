@@ -1,3 +1,4 @@
+# Oyuncu state'leri burada da tutulur
 class Player:
     def __init__(self, x, y, role):
         self.x = x

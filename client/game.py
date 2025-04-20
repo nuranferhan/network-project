@@ -1,3 +1,4 @@
+# Oyuncunun oyun mantığı ve çizimi (Pygame arayüzü)
 import pygame
 from client.player import Player
 
