@@ -1,6 +1,6 @@
-## 👮‍♂️🕵️‍♀️ Multiplayer 2D Game
+## Multiplayer 2D Game
 
-## 🎬 Overview
+## Overview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/04439242-8fa3-4536-8ccf-2ffbcdd15408" width="480" alt="Gameplay Demo"/>
@@ -8,14 +8,14 @@
 
 This project is a 2D maze style multiplayer game created using Python and Pygame. The game runs on a client-server architecture and utilizes the TCP/IP protocol to allow players to connect and interact in real-time.
 
-## 🎯 Project Objective
+## Project Objective
 
 The main goal is to design a real-time multiplayer game where players can connect over a network. The game reinforces the concepts learned in network programming by implementing socket communication, synchronization, and concurrent player interactions.
 
-Players are assigned roles as either **thieves** or **police**. The thief tries to escape within a time limit, while the police attempt to catch the thief. Various **boost items** are available on the map to enhance gameplay, such as speed-ups, teleporters, and point bonuses.
+Players are assigned roles as either thieves or police. The thief tries to escape within a time limit, while the police attempt to catch the thief. Various boost items are available on the map to enhance gameplay, such as speed-ups, teleporters, and point bonuses.
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **Pygame** – For graphics and game mechanics
@@ -24,7 +24,7 @@ Players are assigned roles as either **thieves** or **police**. The thief tries 
 - **Threading** – To support multiple clients concurrently
 
 
-## 🧠 Key Features
+## Key Features
 
 - Real-time multiplayer gameplay
 - Dynamic maze generation
@@ -34,7 +34,7 @@ Players are assigned roles as either **thieves** or **police**. The thief tries 
 - Automatic new game session management
 
 
-## 🧩 Project Structure
+## Project Structure
 
 ```bash
 network-project/
